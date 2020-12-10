@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pwareact/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/pwareact/static/js/main.81acbe40.chunk.js",
+    "main.js.map": "/pwareact/static/js/main.81acbe40.chunk.js.map",
+    "runtime-main.js": "/pwareact/static/js/runtime-main.ae45f2df.js",
+    "runtime-main.js.map": "/pwareact/static/js/runtime-main.ae45f2df.js.map",
+    "static/js/2.782e7163.chunk.js": "/pwareact/static/js/2.782e7163.chunk.js",
+    "static/js/2.782e7163.chunk.js.map": "/pwareact/static/js/2.782e7163.chunk.js.map",
+    "static/js/3.715a3bc8.chunk.js": "/pwareact/static/js/3.715a3bc8.chunk.js",
+    "static/js/3.715a3bc8.chunk.js.map": "/pwareact/static/js/3.715a3bc8.chunk.js.map",
+    "index.html": "/pwareact/index.html",
+    "service-worker.js": "/pwareact/service-worker.js",
+    "service-worker.js.map": "/pwareact/service-worker.js.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/pwareact/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.782e7163.chunk.js.LICENSE.txt": "/pwareact/static/js/2.782e7163.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/pwareact/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae45f2df.js",
+    "static/js/2.782e7163.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.81acbe40.chunk.js"
+  ]
+}
